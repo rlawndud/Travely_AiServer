@@ -18,5 +18,5 @@ if not os.path.exists(Face_MODEL_DIR):
     os.makedirs(Face_MODEL_DIR)
 ```
 개발 환경 : PyCharm 2024.1.1, Pyhton 3.8
-## 전체 프로젝트 Git
+## 전체 프로젝트 레포지토리
 https://github.com/rlawndud/Travely.git

@@ -11,8 +11,8 @@
 # 로깅 설정
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
-HOST = '220.90.180.88'
-PORT = 5001
+HOST = '220.xx.xxx.xx'
+PORT = my_port
 Face_MODEL_DIR = 'face_models'
 if not os.path.exists(Face_MODEL_DIR):
     os.makedirs(Face_MODEL_DIR)
